@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🏁 XTREET - Streetwear Brand Landing Page
 
-<!--
-**danbrenes05/danbrenes05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 Descripción
+Landing page oficial para XTREET, marca de streetwear inspirada en la cultura urbana y racing. Desarrollada como prueba técnica para BRUMA Innovations.
 
-Here are some ideas to get you started:
+## 🚀 Características
+- **Diseño responsive** con Bootstrap 5
+- **Tipografía personalizada** ITC Avant-Garde Gothic
+- **Formulario de contacto** funcional con validación
+- **Navegación suave** entre secciones
+- **Efectos hover** y animaciones CSS
+- **Modal interactivo** para contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías Utilizadas
+- **Frontend:** HTML5, CSS3, Bootstrap 5.3.8
+- **Fuentes:** ITC Avant-Garde Gothic PRO
+- **Iconos:** Bootstrap Icons
+- **Responsive:** Mobile-first design
